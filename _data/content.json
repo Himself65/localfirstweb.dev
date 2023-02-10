@@ -198,6 +198,12 @@
             "author": "Excalidraw contributors",
             "url": "https://excalidraw.com",
             "icon": "https://excalidraw.com/favicon.ico"
+          },
+          {
+            "title": "BlockSuite",
+            "author": "toeverything & contributors",
+            "url": "http://blocksuite-toeverything.vercel.app/",
+            "icon": "http://blocksuite-toeverything.vercel.app/favicon.ico"
           }
         ]
       }
